@@ -1,6 +1,12 @@
 # EOS Toolbox
 
-A collection of open source EOS tooling and resources.
+A collection of open source EOS tools and resources.
+
+### eos transit
+
+Transit Wallet Access Layer for EOS blockchain networks.
+
+https://github.com/eosnewyork/eos-transit
 
 ### eos wallet protocol 
 
@@ -21,6 +27,11 @@ https://github.com/EOSIO/eosjs
 
 EOSIO.CDT (Contract Development Toolkit) is a suite of tools used to build EOSIO contracts.   
 https://github.com/EOSIO/eosio.cdt  
+
+### eos communication
+
+On-chain encrypted communication on the EOS platform, using the AES shared key encryption algorithm and the memo field in the "transfer" action to send private messages that can only be decrypted by the recipient.   
+https://github.com/eostitan/eos-communication
 
 ### demux
 
@@ -133,6 +144,12 @@ https://github.com/eostoolkit/eostoolkit
 GraphQL API for EOS State History with posgraphile.    
 https://github.com/eoscafe/state-history-graphql 
 
+### eosio kinesis plugin
+EOSIO AWS Kinesis Plugin
+https://github.com/eosasia/nodeos_kinesis_plugin
+
+
+https://github.com/eosasia/nodeos_kinesis_plugin
 
 ---
 
